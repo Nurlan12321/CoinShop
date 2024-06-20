@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.coin-container1 {
+    max-width: 800px;
+    margin: 20px auto; /* Центрирование по горизонтали */
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+
+}
+
+.coin-image1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.coin-image1 img {
+    max-width: 100%;
+}
+
+.coin-details1 {
+    margin-top: 20px;
+}
+
+.coin-details1 h2 {
+    margin-top: 0;
+}
+
+.coin-details1 p {
+    margin: 10px 0;
+}
